@@ -1,6 +1,6 @@
-# Turret Defense
+# Turret Defence
 
-A 3D tower defense game where you control a central turret to defend against waves of enemies approaching from all directions. Unlike traditional tower defense games, this game focuses on strategic positioning and timing with a single, upgradeable turret.
+A 3D tower defence game where you control a central turret to defend against waves of enemies approaching from all directions. Unlike traditional tower defence games, this game focuses on strategic positioning and timing with a single, upgradeable turret.
 
 ## Features
 
